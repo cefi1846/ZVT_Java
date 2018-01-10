@@ -5,5 +5,7 @@ In diesem Repository implementiere ich das als Standard definierte ZVT-Protokoll
 
 Natürlich gibt es fertige Programme für ZVT zum kaufen, keines davon ist jedoch in Java programmiert. Da ich Java in der Schule gelernt habe und bestimmte Kassensoftware wie Unicenta oder Openbravo POS in Java geschrieben sind, habe ich mich an die Implementation in Java gemacht.
 
-Wenn dieses Projekt für Sie hilfreich ist, bitte ich Sie bei Änderungen auch mir beischeid zu geben. Ich bin für Hilfen an diesem Projekt sehr dankbar und freue mich auf Unterstützung!
+IDE: Eclipse
+
+In eigener Sache: Wenn dieses Projekt für Sie hilfreich ist, bitte ich Sie bei Änderungen oder Erweiterungen auch mir beischeid zu geben. Ich bin für Hilfen an diesem Projekt sehr dankbar und freue mich auf Unterstützung!
 Schreiben Sie mir gerne an: c.fischer@cefisystems.de

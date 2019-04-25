@@ -7,5 +7,5 @@ Natürlich gibt es fertige Programme für ZVT zum kaufen, keines davon ist jedoc
 
 IDE: Eclipse
 
-In eigener Sache: Wenn dieses Projekt für Sie hilfreich ist, bitte ich Sie bei Änderungen oder Erweiterungen auch mir beischeid zu geben. Ich bin für Hilfen an diesem Projekt sehr dankbar und freue mich auf Unterstützung!
-Schreiben Sie mir gerne an: c.fischer@cefisystems.de
+Bei Interesse an diesem Projekt schreiben Sie mir bitte eine e-Mail an c.fischer@cefisystems.de
+Aus gegebenem Anlass wird dieses Projekt nicht mehr öffentlich zur Verfügung gestellt!

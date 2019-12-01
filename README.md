@@ -1,11 +1,14 @@
 # ZVT_Java
 Implementierung des ZVT-Protokolls für Zahlungsverkehrsterminals in der Programmiersprache Java auf Basis von TCP/IP!
 
-In diesem Repository implementiere ich das als Standard definierte ZVT-Protokoll für Kartenterminals auf Basis von TCP/IP. Es soll einen groben Überblick verschaffen, wie dieses Protokoll anzuwenden ist. Die Dokumentation zum Protokoll ist sehr umfangreich, wenngleich man nur sehr wenig daraus braucht. Meiner Meinung nach ist die Dokumentation auch nicht zielführend. Vieles ergibt sich aus der Implementation.
+In diesem Repository implementiere ich das als quasi-Standard geltende ZVT-Protokoll für Kartenterminals auf Basis von TCP/IP. Es soll einen groben Überblick verschaffen, wie dieses Protokoll anzuwenden ist. Die Dokumentation zum Protokoll ist extrem umfangreich. Jede erdenkliche Funktion einer Zahlung lässt sich implementieren. Die Implementation ist nicht trivial, zeitaufwendig und erfordert großes technisches Wissen sowie Verständnis! Viele Parameter sind in BMP bzw. TLV-Containern untergebracht, diese müssen decodiert werden etc.
 
-Natürlich gibt es fertige Programme für ZVT zum kaufen, keines davon ist jedoch in Java programmiert. Da ich Java in der Schule gelernt habe und bestimmte Kassensoftware wie Unicenta oder Openbravo POS in Java geschrieben sind, habe ich mich an die Implementation in Java gemacht.
+Dieses Projekt kann als fertige API erworben werden. Gerne stehe ich Ihnen bzw. Ihrer Firma als Berater zum Thema ZVT-Schnittstelle/Implementation der ZVT-Schnittstelle in Ihre Anwendung zur Verfügung.
 
 IDE: Eclipse
 
-Bei Interesse an diesem Projekt schreiben Sie mir bitte eine e-Mail an c.fischer@cefisystems.de
-Aus gegebenem Anlass wird dieses Projekt nicht mehr öffentlich zur Verfügung gestellt!
+Für weitere Informationen senden Sie mir bitte eine Mail an: c.fischer@cefisystems.de
+Oder besuchen Sie unsere Seite: https://www.cefisystems.de/zvt-java-api
+
+
+!!! ---> Dieses Projekt steht nicht mehr öffentlich zur Verfügung. Dieses Repo dient nur noch der Information. <--- !!!

@@ -5,6 +5,8 @@ In diesem Repository implementiere ich das als quasi-Standard geltende ZVT-Proto
 
 Dieses Projekt kann als fertige API bei CeFiSystems bezogen werden und individuell für Ihre Anwendung um Funktionen aus dem ZVT-Protokollkanon erweitert werden.
 
+Es existiert darüber hinaus eine Debug-App für Android, welche das komplette ZVT-Protokoll und die gesamte ZVT-API von CeFiSystems enthält. Diese App soll als Test dienen, um die Verbindung mit dem Terminal zu testen.
+
 Folgende Funktionen stehen im Standard zur Verfügung:
 - Anmeldung am Terminal
 - Abmeldung am Terminal
@@ -30,8 +32,6 @@ Geplante Funktionen: -> % gibt an, in welchem Stadium sich die jeweilige Funktio
 
 
 Gerne stehe ich Ihnen bzw. Ihrer Firma als Berater zum Thema ZVT-Schnittstelle/Implementation der ZVT-Schnittstelle in Ihre Anwendung zur Verfügung.
-
-IDE: Eclipse
 
 Für weitere Informationen senden Sie mir bitte eine Mail an: c.fischer@cefisystems.de
 Oder besuchen Sie unsere Seite: https://www.cefisystems.de/zvt-java-api
